@@ -1,0 +1,7 @@
+D:\jen\testrepo\jenktestproj\bin\Debug\jenktestproj.exe.config
+D:\jen\testrepo\jenktestproj\bin\Debug\jenktestproj.exe
+D:\jen\testrepo\jenktestproj\bin\Debug\jenktestproj.pdb
+D:\jen\testrepo\jenktestproj\obj\Debug\jenktestproj.csprojAssemblyReference.cache
+D:\jen\testrepo\jenktestproj\obj\Debug\jenktestproj.csproj.CoreCompileInputs.cache
+D:\jen\testrepo\jenktestproj\obj\Debug\jenktestproj.exe
+D:\jen\testrepo\jenktestproj\obj\Debug\jenktestproj.pdb
